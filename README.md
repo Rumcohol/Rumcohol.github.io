@@ -9,11 +9,7 @@
 * [recents-data-science-projects](#recents-data-science-projects)
 
 
-### [personal-website](www.marcotavora.me)
 
-My personal website:
-
-www.marcotavora.me
 
 ### [publications](https://marcotavora.me/scientpublic/)
 
