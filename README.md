@@ -1,4 +1,4 @@
-## Data Science Projects, Personal Website and Scientific Publications
+## Rupesh Mahore
 
 ## Index
 
